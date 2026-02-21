@@ -40,12 +40,6 @@ Format compatibility imports and exports numerous file formats including PSD sup
 
 ---
 
-<p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH7Zmhec1xLX-pmrgiaFP9_uWP7foQO7cx8Q&s" alt="Pixelmator Pro screenshot"/>
-</p>
-
----
-
 ## Additional Information
 
 Pixelmator Pro OSX excels for image editing without subscription burden. One-time purchase provides professional features avoiding ongoing subscription costs serving budget-conscious creatives requiring capable editing.
